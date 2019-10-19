@@ -1,0 +1,4 @@
+﻿  MyGeometries.cpp
+d:\vm2\ma155\a\p6\textureproj\mygeometries.cpp(418): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\vm2\ma155\a\p6\textureproj\mygeometries.cpp(419): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  TextureProj.vcxproj -> D:\VM2\ma155\a\p6\TextureProj\x64\Debug\TextureProj.exe
